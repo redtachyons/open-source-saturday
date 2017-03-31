@@ -19,7 +19,7 @@ Agenda
 
 > 05:00 PM - Finish for the day, share your experience. If interested can continue coding, and finish what was started.
 
-> At 05:00 the event doesn't have to stop, we can continue our discussions at a local coffee shop or Beer Palour (Have KRUG's first DrinkUp :D )
+> At 05:00 the event doesn't have to stop, we can continue our discussions at a local coffee shop or Beer Palour
 
 How to Contribute
 -----------------
